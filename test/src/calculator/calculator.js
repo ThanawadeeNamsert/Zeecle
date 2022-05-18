@@ -97,7 +97,6 @@ const allClearButton = document.querySelector("[data-all-clear]");
 const previousOperandTextElement = document.querySelector(
   "[data-operand-previous]"
 );
-f;
 const currentOperandTextElement = document.querySelector(
   "[data-operand-current]"
 );
